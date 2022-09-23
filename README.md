@@ -1,6 +1,6 @@
 ### React JS in Typescript Boilerplate
 
-My boilerplate for a quick project setup
+My boilerplate for a quick react project setup using the Feature folder approach
 
 Provided setup
 
